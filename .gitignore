@@ -1,0 +1,7 @@
+# Collected data stays local (large and regenerable)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
